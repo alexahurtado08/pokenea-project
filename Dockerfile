@@ -7,7 +7,7 @@ WORKDIR /app
 # Copiar archivos del proyecto al cont
 COPY . /app
 
-# Instalar dependencias
+# Instalar 
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Exponer el puerto 5000 (Flask por defecto)
