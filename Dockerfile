@@ -4,7 +4,7 @@ FROM python:3.10-slim
 # Establecer directorio de trabajo dentro del contenedor
 WORKDIR /app
 
-# Copiar archivos del proyecto al contenedor
+# Copiar archivos del proyecto al cont
 COPY . /app
 
 # Instalar dependencias
