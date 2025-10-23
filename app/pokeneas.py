@@ -6,7 +6,7 @@ POKENEAS = [
         "nombre": "Arequipeon",
         "altura": 1.2,
         "habilidad": "Dulzura letal",
-        "imagen": "https://<tu-bucket>.s3.amazonaws.com/arequipeon.png",
+        "imagen": "https://pokenea-alexa-2025.s3.us-east-1.amazonaws.com/arequipon.png",
         "frase": "El amor se cocina a fuego lento, como un buen arequipe."
     },
     {
@@ -14,7 +14,7 @@ POKENEAS = [
         "nombre": "Montañaurio",
         "altura": 2.1,
         "habilidad": "Resistencia paisa",
-        "imagen": "https://<tu-bucket>.s3.amazonaws.com/montanaurio.png",
+        "imagen": "https://pokenea-alexa-2025.s3.us-east-1.amazonaws.com/monta%C3%B1aurio.png",
         "frase": "Sube la montaña y verás la vida desde arriba."
     },
     {
@@ -22,7 +22,7 @@ POKENEAS = [
         "nombre": "Cafesaurio",
         "altura": 1.4,
         "habilidad": "Energía infinita",
-        "imagen": "https://<tu-bucket>.s3.amazonaws.com/cafesaurio.png",
+        "imagen": "https://pokenea-alexa-2025.s3.us-east-1.amazonaws.com/cafesaurio.png",
         "frase": "El café es la chispa que enciende mis mañanas."
     },
     {
@@ -30,7 +30,7 @@ POKENEAS = [
         "nombre": "Guarabeast",
         "altura": 1.7,
         "habilidad": "Sabrosura mágica",
-        "imagen": "https://<tu-bucket>.s3.amazonaws.com/guarabeast.png",
+        "imagen": "https://pokenea-alexa-2025.s3.us-east-1.amazonaws.com/guarobeast.png",
         "frase": "Con un buen guaro, hasta los problemas bailan."
     },
     {
@@ -38,7 +38,7 @@ POKENEAS = [
         "nombre": "Sombrerónix",
         "altura": 1.5,
         "habilidad": "Estilo ancestral",
-        "imagen": "https://<tu-bucket>.s3.amazonaws.com/sombreronix.png",
+        "imagen": "https://pokenea-alexa-2025.s3.us-east-1.amazonaws.com/sombreronix.png",
         "frase": "Donde va el sombrerón, va la elegancia paisa."
     },
     {
@@ -46,7 +46,7 @@ POKENEAS = [
         "nombre": "Silletron",
         "altura": 1.8,
         "habilidad": "Fuerza floral",
-        "imagen": "https://<tu-bucket>.s3.amazonaws.com/silletron.png",
+        "imagen": "https://pokenea-alexa-2025.s3.us-east-1.amazonaws.com/silletron.png",
         "frase": "Llevar flores es un arte que pesa, pero enorgullece."
     },
     {
@@ -54,7 +54,7 @@ POKENEAS = [
         "nombre": "Arepachu",
         "altura": 0.8,
         "habilidad": "Transformación dorada",
-        "imagen": "https://<tu-bucket>.s3.amazonaws.com/arepachu.png",
+        "imagen": "https://pokenea-alexa-2025.s3.us-east-1.amazonaws.com/arepachu.png",
         "frase": "Nadie se resiste a una arepita caliente."
     },
     {
@@ -62,7 +62,7 @@ POKENEAS = [
         "nombre": "Cocornix",
         "altura": 1.1,
         "habilidad": "Camuflaje montañero",
-        "imagen": "https://<tu-bucket>.s3.amazonaws.com/cocornix.png",
+        "imagen": "https://pokenea-alexa-2025.s3.us-east-1.amazonaws.com/cocornix.png",
         "frase": "Donde hay niebla, hay misterio."
     },
     {
@@ -70,7 +70,7 @@ POKENEAS = [
         "nombre": "Tamalion",
         "altura": 1.3,
         "habilidad": "Protección envolvente",
-        "imagen": "https://<tu-bucket>.s3.amazonaws.com/tamalion.png",
+        "imagen": "https://pokenea-alexa-2025.s3.us-east-1.amazonaws.com/tamalion.jpg",
         "frase": "No hay problema que un buen tamal no envuelva."
     },
     {
@@ -78,7 +78,7 @@ POKENEAS = [
         "nombre": "Antioquemon",
         "altura": 2.0,
         "habilidad": "Orgullo paisa",
-        "imagen": "https://<tu-bucket>.s3.amazonaws.com/antioquemon.png",
+        "imagen": "https://pokenea-alexa-2025.s3.us-east-1.amazonaws.com/antioquemon.png",
         "frase": "Soy de Antioquia, tierra de gente verraca."
     }
 ]
